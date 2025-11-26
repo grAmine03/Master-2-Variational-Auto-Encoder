@@ -461,4 +461,5 @@ with col2:
     st.markdown(
         "Développée par Mohamed Amine GRINI et Marine VIEILLARD avec Streamlit et Pytorch."
     )
-    st.markdown("[Repository GitHub du projet](https://github.com/LylianChallier/VAEs)")
+    st.markdown("[Repository GitHub du projet](https://github.com/MV-13/Master-2-Variational-Auto-Encoder)")
+
