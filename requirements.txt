@@ -19,7 +19,7 @@ mdurl
 numpy
 pandas
 pillow
-protobuf
+protobuf>=5.0.0
 pyarrow
 pydeck
 pygments
@@ -31,11 +31,11 @@ requests
 rich
 scikit-learn
 scipy
-streamlit
+streamlit>=1.41.1
 sympy
 tenacity
-torch
-torchvision
+torch>=2.4.0
+torchvision>=0.19.0
 typing_extensions
 tzdata
 watchdog
